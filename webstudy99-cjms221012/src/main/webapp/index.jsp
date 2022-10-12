@@ -14,7 +14,7 @@
 </head>
 <body>
 <div class="container pt-3">
-index 차재명
+index 차재명 홍길동
 </div>
 </body>
 </html>
